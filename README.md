@@ -1,9 +1,8 @@
 # Pizza-Sales
-Developed an interactive Power BI dashboard to analyze pizza sales performance across multiple categories, sizes, and time periods
+Developed an interactive Power BI dashboard to analyze pizza sales performance across multiple categories, sizes, and time periods.
 
 # BUSINESS REWUIREMENT:
-To conduct a comprehensive analysis of Blinkit's sales performance, customer satisfaction, and inventory distribuion to identify key insights and opportunities for 
-optimization using various KPIs and visualization in the PowerBI.
+“To thoroughly evaluate Blinkit’s sales trends, customer satisfaction levels, and inventory allocation in order to uncover actionable insights and identify opportunities to improve overall performance through targeted KPIs and Power BI visualizations.”
 
 # KPI's Requirements:
 1. Total Sales: The overall revenue generated from all items sold.
