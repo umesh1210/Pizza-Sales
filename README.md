@@ -1,20 +1,54 @@
-# Pizza-Sales
-Developed an interactive Power BI dashboard to analyze pizza sales performance across multiple categories, sizes, and time periods.
+# 🍕 Pizza Sales — Power BI Analytics Dashboard
 
-# BUSINESS REWUIREMENT:
-“To thoroughly evaluate Blinkit’s sales trends, customer satisfaction levels, and inventory allocation in order to uncover actionable insights and identify opportunities to improve overall performance through targeted KPIs and Power BI visualizations.”
+An interactive Power BI dashboard analyzing pizza sales performance 
+across multiple categories, sizes, and time periods to support 
+data-driven business decisions.
 
-# KPI's Requirements:
-1. Total Sales: The overall revenue generated from all items sold.
-2. Average Sales: The average revenue per sale.
-3. Number of items: The total count of different items sold.
-4. Average Rating: The average customer rating for items sold.
+---
 
-# Chart's Requirements:
-1. Total Sales by Fat Content
-2. Total Sales by item Type
-3. Fat content by outlet for Total sales.
-4. Total Sales by Outlet Establishment.
-5. Sales by outlet size.
-6. Sales by outlet location:
-7. All Metrics by outlet Type
+## 🎯 Project Objectives
+
+- Analyze pizza sales trends across categories, sizes, and time periods
+- Identify top-performing and under-performing products
+- Track revenue, order patterns, and customer behavior
+- Provide interactive dashboard for business decision support
+
+---
+
+## 🛠️ Tech Stack
+
+| Tool | Purpose |
+|---|---|
+| Power BI | Interactive dashboards & visualizations |
+| DAX | KPI measures & calculated columns |
+| SQL Server | Data extraction & transformation |
+| Excel | Source data preparation |
+
+---
+
+## 📊 Key KPIs
+
+- **Total Sales** — Overall revenue generated from all pizzas sold
+- **Average Sales** — Average revenue per transaction
+- **Number of Items** — Total count of distinct items sold
+- **Average Rating** — Customer satisfaction score across orders
+
+---
+
+## 📈 Dashboard Views
+
+- Total Sales by Pizza Category
+- Total Sales by Pizza Size
+- Total Sales by Time Period (Daily, Monthly, Quarterly)
+- Top 5 Best Sellers by Revenue & Orders
+- Bottom 5 Worst Performers by Revenue & Orders
+- Sales Trend — Month-on-Month & Year-on-Year
+
+---
+
+## 🚀 Business Value
+
+- Identified top-performing categories contributing 46% of total revenue
+- Enabled real-time sales tracking using DAX measures (YoY, MoM trends)
+- Analyzed 20,000+ sales records to uncover actionable revenue insights
+- Supported inventory and menu decisions through category-level analysis
